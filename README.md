@@ -7,7 +7,7 @@ The copyright of the data is owned by the non-profit association European Sign L
 
 1. Download repo.
 ```
-git clone https://github.com/MLSLT/SP-10
+git clone https://github.com/BoonthichaSaejia/dataset-SP-10.git
 
 ```
 2. Install dependencies
